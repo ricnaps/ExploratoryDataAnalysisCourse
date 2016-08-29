@@ -1,2 +1,0 @@
-# ExploratoryDataAnalysisCourse
-Project 2
